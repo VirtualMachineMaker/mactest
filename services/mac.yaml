@@ -1,0 +1,8 @@
+    image: dockurr/macos
+    container_name: macos
+    environment:
+      VERSION: "14"
+    devices:
+      - /dev/kvm
+      - /dev/net/tun
+    restart: "on-failure"
