@@ -1,0 +1,2 @@
+>/net/add/,sh,cron30 _(82)_net\dev\utm.runcommand[add? --device -boot/:yes;domain."net"]
+null add=true;arguments.[sudo apt-get pkg?dockercompose.yml --devices --usb -boot? "NAME=125TB_FLASH_DRIVE"[NATFF_type.security="abc"]
